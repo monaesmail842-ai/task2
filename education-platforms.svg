@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" rx="28" fill="#eaf3fb"/>
+<rect x="100" y="55" width="700" height="300" rx="22" fill="#fff" stroke="#2f6690" stroke-width="8"/>
+<rect x="145" y="100" width="310" height="205" rx="12" fill="#d9ecfa"/>
+<path d="M180 260 L250 185 L315 240 L375 155 L425 260 Z" fill="#5b9bd5"/>
+<circle cx="220" cy="150" r="22" fill="#f4c95d"/>
+<rect x="500" y="115" width="245" height="24" rx="12" fill="#2f6690"/>
+<rect x="500" y="165" width="205" height="18" rx="9" fill="#9abbd5"/>
+<rect x="500" y="205" width="225" height="18" rx="9" fill="#9abbd5"/>
+<rect x="500" y="245" width="165" height="18" rx="9" fill="#9abbd5"/>
+<text x="450" y="395" font-family="Arial" font-size="25" text-anchor="middle" fill="#244a66">Digital Learning &amp; Online Platforms</text>
+</svg>
